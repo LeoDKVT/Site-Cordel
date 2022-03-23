@@ -9,3 +9,11 @@ Realizei a criação desse site utilizando todos os meus conhecimentos com HTML 
 **_Detalhe: Conseguir realizar a criação do site sem ter que olhar o código da aula. Apenas usei as imagens e o texto que foi passado_**
 
 **:grin::grin:Feliz pelo resultado!!!:grin::grin:**
+ 
+ 
+ 
+:hammer_and_wrench::hammer_and_wrench:Correções necessárias:hammer_and_wrench::hammer_and_wrench:
+
+° Melhorar o posicionamento.
+
+° Ajustar o tamanho para melhor visualização pelo celular.
