@@ -14,6 +14,8 @@ Realizei a criação desse site utilizando os meus conhecimentos com HTML e CSS.
 
 ° Melhorar o posicionamento.
 
+° Melhorar a primeira imagem de fundo 
+
 ° Ajustar o tamanho para melhor visualização pelo celular.
 
 ## Atividades :pencil::
