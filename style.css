@@ -43,10 +43,7 @@ section.corpo p {
     width: 345px;
     margin-top: 50px;
     margin-bottom: 60px;
-    padding-left: 20px;
 }
-
-
 
 section.pri {
     height: 400px;
@@ -78,8 +75,6 @@ section.seg {
     padding-left: 5px;
 }
 
-
-
 /*Rodapé do site*/
 footer {
     background-color: black;
@@ -89,6 +84,7 @@ footer {
 
 footer p {
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px;
 }
 
