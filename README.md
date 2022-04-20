@@ -12,11 +12,11 @@ Realizei a criação desse site utilizando os meus conhecimentos com HTML e CSS.
 
 ## Correções :hammer_and_wrench::
 
-° Melhorar o posicionamento.
+:heavy_check_mark:	 ~~Melhorar o posicionamento.~~
 
-° Melhorar a primeira imagem de fundo 
+:heavy_check_mark:	 ~~Melhorar a primeira imagem de fundo~~ 
 
-° Ajustar o tamanho para melhor visualização pelo celular.
+:heavy_check_mark:	~~Ajustar o tamanho para melhor visualização pelo celular.~~
 
 ## Atividades :pencil::
 
